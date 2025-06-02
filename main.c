@@ -42,6 +42,14 @@
 		ch2 = 'o';
 		ch3 = 'W	';
 		
+		
+		
+	void main()
+		int numero;
+		printf("Entre com um numero:");
+		scanf("%d", &numero)
+	}	
+		
 	
 	printf("A variavel d possui o valor: %d\n", d);
 	printf("A variavel c possui o valor: %d\n", c);
