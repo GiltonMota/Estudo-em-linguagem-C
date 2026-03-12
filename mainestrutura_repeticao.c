@@ -11,6 +11,8 @@ int main(int argc, char *argv[]) {
 	
 	for (i=0; i<=10; i++){
 	printf ("%d x %d =%d\n",cont, i, cont*i);
+	
 }
+/*comando "limpar tela" => system("clear||cls");*/
 	return 0;
 }
